@@ -168,5 +168,5 @@ if __name__ == '__main__':
 
         for j in threads:
             j.join()
-        checkdownload()
+    checkdownload()
 
